@@ -1,0 +1,13 @@
+C:\Users\hema-pt3672\source\repos\taskmanangement\taskmanangement\bin\Debug\netcoreapp3.1\taskmanangement.exe
+C:\Users\hema-pt3672\source\repos\taskmanangement\taskmanangement\bin\Debug\netcoreapp3.1\taskmanangement.deps.json
+C:\Users\hema-pt3672\source\repos\taskmanangement\taskmanangement\bin\Debug\netcoreapp3.1\taskmanangement.runtimeconfig.json
+C:\Users\hema-pt3672\source\repos\taskmanangement\taskmanangement\bin\Debug\netcoreapp3.1\taskmanangement.runtimeconfig.dev.json
+C:\Users\hema-pt3672\source\repos\taskmanangement\taskmanangement\bin\Debug\netcoreapp3.1\taskmanangement.dll
+C:\Users\hema-pt3672\source\repos\taskmanangement\taskmanangement\bin\Debug\netcoreapp3.1\taskmanangement.pdb
+C:\Users\hema-pt3672\source\repos\taskmanangement\taskmanangement\obj\Debug\netcoreapp3.1\taskmanangement.csprojAssemblyReference.cache
+C:\Users\hema-pt3672\source\repos\taskmanangement\taskmanangement\obj\Debug\netcoreapp3.1\taskmanangement.AssemblyInfoInputs.cache
+C:\Users\hema-pt3672\source\repos\taskmanangement\taskmanangement\obj\Debug\netcoreapp3.1\taskmanangement.AssemblyInfo.cs
+C:\Users\hema-pt3672\source\repos\taskmanangement\taskmanangement\obj\Debug\netcoreapp3.1\taskmanangement.csproj.CoreCompileInputs.cache
+C:\Users\hema-pt3672\source\repos\taskmanangement\taskmanangement\obj\Debug\netcoreapp3.1\taskmanangement.dll
+C:\Users\hema-pt3672\source\repos\taskmanangement\taskmanangement\obj\Debug\netcoreapp3.1\taskmanangement.pdb
+C:\Users\hema-pt3672\source\repos\taskmanangement\taskmanangement\obj\Debug\netcoreapp3.1\taskmanangement.genruntimeconfig.cache

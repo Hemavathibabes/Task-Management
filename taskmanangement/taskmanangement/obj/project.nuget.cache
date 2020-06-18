@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x2uC2LXL/FyEn4LnEcGQSYzzpq0gah+cMjx1LajdSuByNEjLuAgyjlbg8goeKdW0GoDdvN3WkweGJVqYvqq7rg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hema-pt3672\\source\\repos\\taskmanangement\\taskmanangement\\taskmanangement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hema-pt3672\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
